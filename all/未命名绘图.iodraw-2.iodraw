@@ -7,22 +7,22 @@
         <mxCell id="XMh4XiExvhGyNmcZ292m-1" value="交通" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="240" y="540" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-2" value="数据处理" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-2" value="数据处理" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="536" y="754" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="XMh4XiExvhGyNmcZ292m-3" value="地形" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="240" y="639" width="93" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-4" value="土地利用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-4" value="土地利用" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="224" y="737" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-5" value="地质灾害" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-5" value="地质灾害" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="224" y="836" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-6" value="POI" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-6" value="POI" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="244" y="934" width="84" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-7" value="重点项目清单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-7" value="重点项目清单" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="208" y="1033" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XMh4XiExvhGyNmcZ292m-8" value="城市形态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
