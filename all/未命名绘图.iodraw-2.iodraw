@@ -7,7 +7,7 @@
         <mxCell id="XMh4XiExvhGyNmcZ292m-238" value="数据处理" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="1297" height="371" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-239" value="交通" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-239" value="交通" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=10;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="106" y="46" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XMh4XiExvhGyNmcZ292m-240" value="城市形态" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
