@@ -411,23 +411,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-374" value="政策建议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-374" value="政策建议" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1425" y="350" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-375" value="实现重点项目土地资源合理分配" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-375" value="实现重点项目土地资源合理分配" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1240" y="449" width="222" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-376" value="城镇开发边界优化调整提供科学依据" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-376" value="城镇开发边界优化调整提供科学依据" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1512" y="449" width="223" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-381" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XMh4XiExvhGyNmcZ292m-374" target="XMh4XiExvhGyNmcZ292m-375">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-381" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=-0.01;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" edge="1" parent="1" source="XMh4XiExvhGyNmcZ292m-374" target="XMh4XiExvhGyNmcZ292m-375">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1351" y="424" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-382" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XMh4XiExvhGyNmcZ292m-374" target="XMh4XiExvhGyNmcZ292m-376">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-382" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=-0.01;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" edge="1" parent="1" source="XMh4XiExvhGyNmcZ292m-374" target="XMh4XiExvhGyNmcZ292m-376">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1623" y="424" />
