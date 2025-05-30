@@ -417,7 +417,7 @@
         <mxCell id="XMh4XiExvhGyNmcZ292m-390" value="土地资源合理分配" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="708" y="880" width="222" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-391" value="城镇开发边界优化调整提供科学依据" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-391" value="城镇优化边界" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1132" y="880" width="223" height="66" as="geometry" />
         </mxCell>
         <mxCell id="XMh4XiExvhGyNmcZ292m-396" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=-0.01;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" edge="1" parent="1" source="XMh4XiExvhGyNmcZ292m-389" target="XMh4XiExvhGyNmcZ292m-390">
