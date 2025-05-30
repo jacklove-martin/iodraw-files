@@ -25,7 +25,7 @@
         <mxCell id="XMh4XiExvhGyNmcZ292m-244" value="评价因子" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="188" y="293" width="94" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-245" value="土地利用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-245" value="土地利用" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="542" y="46" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XMh4XiExvhGyNmcZ292m-246" value="重分类" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
@@ -40,7 +40,7 @@
         <mxCell id="XMh4XiExvhGyNmcZ292m-249" value="城市扩张" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="635" y="293" width="95" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-250" value="地质灾害" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-250" value="地质灾害" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="787" y="46" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XMh4XiExvhGyNmcZ292m-251" value="缓冲区分析" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
@@ -49,19 +49,19 @@
         <mxCell id="XMh4XiExvhGyNmcZ292m-252" value="地质灾害热点" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="786" y="293" width="127" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-253" value="POI" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-253" value="POI" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="971" y="46" width="84" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-254" value="数据筛选" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-254" value="数据筛选" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="1060" y="169" width="94" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-255" value="重点项目清单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-255" value="重点项目清单" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="1114" y="46" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XMh4XiExvhGyNmcZ292m-256" value="第二产业POI" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="963" y="293" width="119" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-257" value="第三产业POI" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-257" value="第三产业POI" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="1142" y="293" width="119" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XMh4XiExvhGyNmcZ292m-258" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="XMh4XiExvhGyNmcZ292m-238" source="XMh4XiExvhGyNmcZ292m-239" target="XMh4XiExvhGyNmcZ292m-240">
