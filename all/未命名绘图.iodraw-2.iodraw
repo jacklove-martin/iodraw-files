@@ -308,7 +308,7 @@
           <mxGeometry x="866" y="629" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XMh4XiExvhGyNmcZ292m-328" value="第二产业用地 发展概率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1187" width="225" height="49" as="geometry" />
+          <mxGeometry x="548" y="723" width="225" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XMh4XiExvhGyNmcZ292m-329" value="受灾害候选 调出地块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="823" y="826" width="179" height="49" as="geometry" />
