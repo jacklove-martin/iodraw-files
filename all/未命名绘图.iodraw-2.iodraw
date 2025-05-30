@@ -411,26 +411,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-389" value="政策建议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="205" y="990" width="124" height="49" as="geometry" />
+        <mxCell id="XMh4XiExvhGyNmcZ292m-389" value="政策建议" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="925" y="790" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-390" value="实现重点项目土地资源合理分配" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="20" y="1089" width="222" height="66" as="geometry" />
+        <mxCell id="XMh4XiExvhGyNmcZ292m-390" value="实现重点项目土地资源合理分配" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="740" y="889" width="222" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-391" value="城镇开发边界优化调整提供科学依据" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="292" y="1089" width="223" height="66" as="geometry" />
+        <mxCell id="XMh4XiExvhGyNmcZ292m-391" value="城镇开发边界优化调整提供科学依据" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1012" y="889" width="223" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-396" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XMh4XiExvhGyNmcZ292m-389" target="XMh4XiExvhGyNmcZ292m-390">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-396" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=-0.01;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" edge="1" parent="1" source="XMh4XiExvhGyNmcZ292m-389" target="XMh4XiExvhGyNmcZ292m-390">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="131" y="1064" />
+              <mxPoint x="851" y="864" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-397" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XMh4XiExvhGyNmcZ292m-389" target="XMh4XiExvhGyNmcZ292m-391">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-397" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=-0.01;rounded=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" edge="1" parent="1" source="XMh4XiExvhGyNmcZ292m-389" target="XMh4XiExvhGyNmcZ292m-391">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="403" y="1064" />
+              <mxPoint x="1123" y="864" />
             </Array>
           </mxGeometry>
         </mxCell>
