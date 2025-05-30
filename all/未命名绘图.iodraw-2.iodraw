@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XMh4XiExvhGyNmcZ292m-238" value="数据处理" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="30" y="30" width="1297" height="371" as="geometry" />
+          <mxGeometry x="20" y="20" width="1297" height="371" as="geometry" />
         </mxCell>
         <mxCell id="XMh4XiExvhGyNmcZ292m-239" value="交通" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="106" y="46" width="92" height="49" as="geometry" />
@@ -408,6 +408,83 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1172" y="879" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMh4XiExvhGyNmcZ292m-374" value="政策建议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="205" y="990" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="XMh4XiExvhGyNmcZ292m-375" value="实现重点项目土地资源合理分配" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="20" y="1089" width="222" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="XMh4XiExvhGyNmcZ292m-376" value="城镇开发边界优化调整提供科学依据" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="292" y="1089" width="223" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="XMh4XiExvhGyNmcZ292m-377" value="分级优先调入地块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="188" y="1205" width="159" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="XMh4XiExvhGyNmcZ292m-378" value="受灾害建议调出地块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="68" y="1303" width="174" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="XMh4XiExvhGyNmcZ292m-379" value="宜荆荆恩城市群地块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="292" y="1303" width="174" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="XMh4XiExvhGyNmcZ292m-380" value="专题地图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1402" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="XMh4XiExvhGyNmcZ292m-381" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XMh4XiExvhGyNmcZ292m-374" target="XMh4XiExvhGyNmcZ292m-375">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="131" y="1064" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMh4XiExvhGyNmcZ292m-382" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XMh4XiExvhGyNmcZ292m-374" target="XMh4XiExvhGyNmcZ292m-376">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="403" y="1064" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMh4XiExvhGyNmcZ292m-383" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.08;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XMh4XiExvhGyNmcZ292m-375" target="XMh4XiExvhGyNmcZ292m-377">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="131" y="1180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMh4XiExvhGyNmcZ292m-384" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.92;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XMh4XiExvhGyNmcZ292m-376" target="XMh4XiExvhGyNmcZ292m-377">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="403" y="1180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMh4XiExvhGyNmcZ292m-385" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="XMh4XiExvhGyNmcZ292m-377" target="XMh4XiExvhGyNmcZ292m-378">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="155" y="1278" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMh4XiExvhGyNmcZ292m-386" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="XMh4XiExvhGyNmcZ292m-377" target="XMh4XiExvhGyNmcZ292m-379">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="379" y="1278" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMh4XiExvhGyNmcZ292m-387" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.06;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XMh4XiExvhGyNmcZ292m-378" target="XMh4XiExvhGyNmcZ292m-380">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="155" y="1377" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMh4XiExvhGyNmcZ292m-388" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.95;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XMh4XiExvhGyNmcZ292m-379" target="XMh4XiExvhGyNmcZ292m-380">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="379" y="1377" />
             </Array>
           </mxGeometry>
         </mxCell>
