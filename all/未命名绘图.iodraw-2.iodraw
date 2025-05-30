@@ -28,10 +28,10 @@
         <mxCell id="XMh4XiExvhGyNmcZ292m-245" value="土地利用" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="542" y="46" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-246" value="重分类" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-246" value="重分类" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="487" y="169" width="78" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-247" value="叠加分析" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-247" value="叠加分析" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="635" y="169" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XMh4XiExvhGyNmcZ292m-248" value="城市/非城市" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
