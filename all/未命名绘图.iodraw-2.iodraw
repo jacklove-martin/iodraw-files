@@ -19,7 +19,7 @@
         <mxCell id="XMh4XiExvhGyNmcZ292m-242" value="地形" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="332" y="46" width="93" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-243" value="产业布局" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-243" value="产业布局" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="332" y="169" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XMh4XiExvhGyNmcZ292m-244" value="评价因子" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
@@ -43,10 +43,10 @@
         <mxCell id="XMh4XiExvhGyNmcZ292m-250" value="地质灾害" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="787" y="46" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-251" value="缓冲区分析" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-251" value="缓冲区分析" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="795" y="169" width="110" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-252" value="地质灾害热点" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-252" value="地质灾害热点" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="786" y="293" width="127" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XMh4XiExvhGyNmcZ292m-253" value="POI" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
@@ -58,7 +58,7 @@
         <mxCell id="XMh4XiExvhGyNmcZ292m-255" value="重点项目清单" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="1114" y="46" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-256" value="第二产业POI" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-256" value="第二产业POI" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="963" y="293" width="119" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XMh4XiExvhGyNmcZ292m-257" value="第三产业POI" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
