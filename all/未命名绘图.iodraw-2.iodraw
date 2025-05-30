@@ -174,7 +174,7 @@
         <mxCell id="XMh4XiExvhGyNmcZ292m-205" value="基础设施" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XMh4XiExvhGyNmcZ292m-202">
           <mxGeometry x="188" y="169" width="94" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-206" value="地形" style="whiteSpace=wrap;strokeWidth=8;strokeColor=#10739e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#b1ddf0;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-202">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-206" value="地形" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-202">
           <mxGeometry x="332" y="46" width="93" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XMh4XiExvhGyNmcZ292m-207" value="产业布局" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XMh4XiExvhGyNmcZ292m-202">
