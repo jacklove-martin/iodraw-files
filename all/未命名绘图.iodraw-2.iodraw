@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="1588" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2269" dy="1591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -412,80 +412,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XMh4XiExvhGyNmcZ292m-374" value="政策建议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1535" y="200" width="124" height="49" as="geometry" />
+          <mxGeometry x="1425" y="350" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XMh4XiExvhGyNmcZ292m-375" value="实现重点项目土地资源合理分配" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1350" y="299" width="222" height="66" as="geometry" />
+          <mxGeometry x="1240" y="449" width="222" height="66" as="geometry" />
         </mxCell>
         <mxCell id="XMh4XiExvhGyNmcZ292m-376" value="城镇开发边界优化调整提供科学依据" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1622" y="299" width="223" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-378" value="受灾害建议调出地块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1398" y="513" width="174" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-379" value="宜荆荆恩城市群地块" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1622" y="513" width="174" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-380" value="专题地图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1535" y="612" width="124" height="49" as="geometry" />
+          <mxGeometry x="1512" y="449" width="223" height="66" as="geometry" />
         </mxCell>
         <mxCell id="XMh4XiExvhGyNmcZ292m-381" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XMh4XiExvhGyNmcZ292m-374" target="XMh4XiExvhGyNmcZ292m-375">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1461" y="274" />
+              <mxPoint x="1351" y="424" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XMh4XiExvhGyNmcZ292m-382" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XMh4XiExvhGyNmcZ292m-374" target="XMh4XiExvhGyNmcZ292m-376">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1733" y="274" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-383" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.08;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XMh4XiExvhGyNmcZ292m-375">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1461" y="390" />
-            </Array>
-            <mxPoint x="1532.0294117647059" y="415" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-384" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.92;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XMh4XiExvhGyNmcZ292m-376">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1733" y="390" />
-            </Array>
-            <mxPoint x="1662.9705882352941" y="415" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-385" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="XMh4XiExvhGyNmcZ292m-378">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1485" y="488" />
-            </Array>
-            <mxPoint x="1539.53125" y="464" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-386" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="XMh4XiExvhGyNmcZ292m-379">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1709" y="488" />
-            </Array>
-            <mxPoint x="1653.8125" y="464" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-387" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.06;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XMh4XiExvhGyNmcZ292m-378" target="XMh4XiExvhGyNmcZ292m-380">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1485" y="587" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-388" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.95;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XMh4XiExvhGyNmcZ292m-379" target="XMh4XiExvhGyNmcZ292m-380">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1709" y="587" />
+              <mxPoint x="1623" y="424" />
             </Array>
           </mxGeometry>
         </mxCell>
