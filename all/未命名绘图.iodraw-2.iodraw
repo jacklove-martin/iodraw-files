@@ -10,10 +10,10 @@
         <mxCell id="XMh4XiExvhGyNmcZ292m-239" value="交通" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=18;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="106" y="46" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-240" value="城市形态" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-240" value="城市形态" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="43" y="169" width="95" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-241" value="基础设施" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-241" value="基础设施" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="188" y="169" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XMh4XiExvhGyNmcZ292m-242" value="地形" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
@@ -22,7 +22,7 @@
         <mxCell id="XMh4XiExvhGyNmcZ292m-243" value="产业布局" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="332" y="169" width="94" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-244" value="评价因子" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-244" value="评价因子" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="188" y="293" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XMh4XiExvhGyNmcZ292m-245" value="土地利用" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
@@ -34,10 +34,10 @@
         <mxCell id="XMh4XiExvhGyNmcZ292m-247" value="叠加分析" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="635" y="169" width="94" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-248" value="城市/非城市" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-248" value="城市/非城市" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="466" y="293" width="119" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XMh4XiExvhGyNmcZ292m-249" value="城市扩张" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
+        <mxCell id="XMh4XiExvhGyNmcZ292m-249" value="城市扩张" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
           <mxGeometry x="635" y="293" width="95" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XMh4XiExvhGyNmcZ292m-250" value="地质灾害" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Comic Sans MS;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="XMh4XiExvhGyNmcZ292m-238">
