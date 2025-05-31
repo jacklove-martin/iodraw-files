@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4qK5zdge_ZpsDTNX4Dth-1" value="图像集合 A" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4qK5zdge_ZpsDTNX4Dth-1" value="图像集合 A" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="139" height="49" as="geometry" />
         </mxCell>
         <mxCell id="4qK5zdge_ZpsDTNX4Dth-2" value="集合 A 与 B 的膨胀结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
