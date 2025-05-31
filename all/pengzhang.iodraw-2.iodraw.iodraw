@@ -13,7 +13,7 @@
         <mxCell id="4qK5zdge_ZpsDTNX4Dth-3" value="结构元素 B" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="209" y="20" width="138" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="4qK5zdge_ZpsDTNX4Dth-4" value="并集操作" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.33;entryY=0;rounded=0;" parent="1" source="4qK5zdge_ZpsDTNX4Dth-1" target="4qK5zdge_ZpsDTNX4Dth-2" edge="1">
+        <mxCell id="4qK5zdge_ZpsDTNX4Dth-4" value="交集操作" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.33;entryY=0;rounded=0;" parent="1" source="4qK5zdge_ZpsDTNX4Dth-1" target="4qK5zdge_ZpsDTNX4Dth-2" edge="1">
           <mxGeometry x="-0.2995" y="-11" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="89" y="105" />
