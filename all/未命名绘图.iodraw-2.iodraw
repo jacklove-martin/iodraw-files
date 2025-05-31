@@ -16,22 +16,22 @@
         <mxCell id="B4vIgoGWX044CzCHpAbO-4" value="样本数据集 2" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="223" y="281" width="153" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="B4vIgoGWX044CzCHpAbO-5" value="样本数据集 3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="B4vIgoGWX044CzCHpAbO-5" value="样本数据集 3" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="426" y="281" width="153" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="B4vIgoGWX044CzCHpAbO-6" value="样本数据集 n" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="B4vIgoGWX044CzCHpAbO-6" value="样本数据集 n" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="630" y="281" width="154" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="B4vIgoGWX044CzCHpAbO-7" value="树 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="B4vIgoGWX044CzCHpAbO-7" value="树 1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="52" y="380" width="90" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="B4vIgoGWX044CzCHpAbO-8" value="树 2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="B4vIgoGWX044CzCHpAbO-8" value="树 2" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="255" y="380" width="90" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="B4vIgoGWX044CzCHpAbO-9" value="树 3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="B4vIgoGWX044CzCHpAbO-9" value="树 3" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="458" y="380" width="90" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="B4vIgoGWX044CzCHpAbO-10" value="树 n" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="B4vIgoGWX044CzCHpAbO-10" value="树 n" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="661" y="380" width="90" height="49" as="geometry" />
         </mxCell>
         <mxCell id="B4vIgoGWX044CzCHpAbO-11" value="平均/投票" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
