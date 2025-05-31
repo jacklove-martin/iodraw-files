@@ -4,33 +4,33 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QkymIn7mweJMlfelVo4x-1" value="图像集合A" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="QkymIn7mweJMlfelVo4x-1" value="图像集合A" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="134" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="QkymIn7mweJMlfelVo4x-2" value="交集操作" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="QkymIn7mweJMlfelVo4x-2" value="交集操作" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="132" y="119" width="94" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="QkymIn7mweJMlfelVo4x-3" value="结构元素B" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="QkymIn7mweJMlfelVo4x-3" value="结构元素B" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="204" y="20" width="133" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="QkymIn7mweJMlfelVo4x-4" value="集合A与B的腐蚀结果" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="QkymIn7mweJMlfelVo4x-4" value="集合A与B的腐蚀结果" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="91" y="217" width="176" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="QkymIn7mweJMlfelVo4x-5" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.02;entryY=-0.01;rounded=0;" edge="1" parent="1" source="QkymIn7mweJMlfelVo4x-1" target="QkymIn7mweJMlfelVo4x-2">
+        <mxCell id="QkymIn7mweJMlfelVo4x-5" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.02;entryY=-0.01;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="QkymIn7mweJMlfelVo4x-1" target="QkymIn7mweJMlfelVo4x-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="87" y="94" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QkymIn7mweJMlfelVo4x-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.98;entryY=-0.01;rounded=0;" edge="1" parent="1" source="QkymIn7mweJMlfelVo4x-3" target="QkymIn7mweJMlfelVo4x-2">
+        <mxCell id="QkymIn7mweJMlfelVo4x-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.98;entryY=-0.01;rounded=0;fillColor=#e1d5e7;strokeColor=#000000;" edge="1" parent="1" source="QkymIn7mweJMlfelVo4x-3" target="QkymIn7mweJMlfelVo4x-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="271" y="94" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QkymIn7mweJMlfelVo4x-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="QkymIn7mweJMlfelVo4x-2" target="QkymIn7mweJMlfelVo4x-4">
+        <mxCell id="QkymIn7mweJMlfelVo4x-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="QkymIn7mweJMlfelVo4x-2" target="QkymIn7mweJMlfelVo4x-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
