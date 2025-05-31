@@ -28,10 +28,10 @@
         <mxCell id="B4vIgoGWX044CzCHpAbO-8" value="树 2" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="255" y="380" width="90" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="B4vIgoGWX044CzCHpAbO-9" value="树 3" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="B4vIgoGWX044CzCHpAbO-9" value="树 3" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="458" y="380" width="90" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="B4vIgoGWX044CzCHpAbO-10" value="树 n" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="B4vIgoGWX044CzCHpAbO-10" value="树 n" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="661" y="380" width="90" height="49" as="geometry" />
         </mxCell>
         <mxCell id="B4vIgoGWX044CzCHpAbO-11" value="平均/投票" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;" vertex="1" parent="1">
