@@ -4,30 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4qK5zdge_ZpsDTNX4Dth-1" value="图像集合 A" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="20" y="20" width="139" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="4qK5zdge_ZpsDTNX4Dth-2" value="集合 A 与 B 的膨胀结果" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="71" y="141" width="225" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="4qK5zdge_ZpsDTNX4Dth-3" value="结构元素 B" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="209" y="20" width="138" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="4qK5zdge_ZpsDTNX4Dth-4" value="交集操作" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.33;entryY=0;rounded=0;" parent="1" source="4qK5zdge_ZpsDTNX4Dth-1" target="4qK5zdge_ZpsDTNX4Dth-2" edge="1">
-          <mxGeometry x="-0.2995" y="-11" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="89" y="105" />
-            </Array>
-            <mxPoint x="-3" y="-4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4qK5zdge_ZpsDTNX4Dth-5" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.67;entryY=0;rounded=0;" parent="1" source="4qK5zdge_ZpsDTNX4Dth-3" target="4qK5zdge_ZpsDTNX4Dth-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="278" y="105" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
