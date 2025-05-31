@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QkymIn7mweJMlfelVo4x-8" value="输入二值图像和结构元素" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="QkymIn7mweJMlfelVo4x-8" value="输入二值图像和结构元素" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="206" y="20" width="236" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="QkymIn7mweJMlfelVo4x-9" value="初始化输出图像" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="QkymIn7mweJMlfelVo4x-9" value="初始化输出图像" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="238" y="119" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QkymIn7mweJMlfelVo4x-10" value="遍历输入图像每个像素" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
